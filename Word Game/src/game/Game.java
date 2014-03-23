@@ -14,7 +14,7 @@ public class Game extends StateBasedGame
 {
 	public static final int WIDTH = 1256, HEIGHT = 866;
 	public static final int Splash = 0, MENU = 1, PLAY = 2;
-	public static final String Title = "Tower Defence";
+	public static final String Title = "Word Game";
 	public Game() throws SlickException
 	{
 		super(Title);
