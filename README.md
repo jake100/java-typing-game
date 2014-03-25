@@ -1,7 +1,7 @@
 java-typing-game
 ================
 
-game to test typing skills.
+game to test typing skills, multicolored text, points etc...
 
 uses a text file with over 80,000 words to generate the words on the screen.
 
